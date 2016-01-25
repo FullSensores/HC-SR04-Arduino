@@ -5,5 +5,7 @@ Demostracion del Sensor utilizando Arduino como Plataforma de Desarrollo, en est
 
 -Skecth Arduino
 
+-Datasheet del HC-SR04
+
 -Diagrama de Conexiones realizadas en Fritzing
 
