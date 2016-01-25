@@ -2,5 +2,8 @@
 Demostracion del Sensor utilizando Arduino como Plataforma de Desarrollo, en este Repositorio se podra descargar:
 
 -Libreria New Ping, puedes encontrar la Liberia y la documentacion en http://playground.arduino.cc/Code/NewPing
+
 -Skecth Arduino
+
 -Diagrama de Conexiones realizadas en Fritzing
+
