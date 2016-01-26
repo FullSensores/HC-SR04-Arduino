@@ -9,3 +9,4 @@ Demostracion del Sensor utilizando Arduino como Plataforma de Desarrollo, en est
 
 -Diagrama de Conexiones realizadas en Fritzing
 
+Encuentra el Tutorial en http://fullsensores.com/hc-sr04-arduino/
